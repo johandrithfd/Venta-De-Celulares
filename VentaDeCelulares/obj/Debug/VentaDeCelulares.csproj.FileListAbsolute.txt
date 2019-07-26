@@ -1,0 +1,144 @@
+D:\the_a\Documents\Visual Studio 2017\Projects\VentaDeCelulares\VentaDeCelulares\bin\Debug\VentaDeCelulares.exe.config
+D:\the_a\Documents\Visual Studio 2017\Projects\VentaDeCelulares\VentaDeCelulares\bin\Debug\VentaDeCelulares.exe
+D:\the_a\Documents\Visual Studio 2017\Projects\VentaDeCelulares\VentaDeCelulares\bin\Debug\VentaDeCelulares.pdb
+D:\the_a\Documents\Visual Studio 2017\Projects\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.csprojResolveAssemblyReference.cache
+D:\the_a\Documents\Visual Studio 2017\Projects\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.Properties.Resources.resources
+D:\the_a\Documents\Visual Studio 2017\Projects\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.csproj.GenerateResource.Cache
+D:\the_a\Documents\Visual Studio 2017\Projects\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.exe
+D:\the_a\Documents\Visual Studio 2017\Projects\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.pdb
+D:\the_a\Documents\Visual Studio 2017\Projects\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_principal.resources
+D:\the_a\Documents\Visual Studio 2017\Projects\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_gestión_usuarios.resources
+D:\the_a\Documents\Visual Studio 2017\Projects\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_celulares.resources
+D:\the_a\Documents\Visual Studio 2017\Projects\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_gestión_artículos.resources
+D:\the_a\Documents\Visual Studio 2017\Projects\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_registro_celular.resources
+D:\the_a\Documents\Visual Studio 2017\Projects\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_ver_accesorios.resources
+D:\the_a\Documents\Visual Studio 2017\Projects\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_ver_clientes.resources
+D:\the_a\Documents\Visual Studio 2017\Projects\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_ver_usuarios.resources
+D:\the_a\Documents\Visual Studio 2017\Projects\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_ver_ventas.resources
+D:\the_a\Documents\Visual Studio 2017\Projects\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_iniciar_sesión.resources
+D:\the_a\Documents\Visual Studio 2017\Projects\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_gestión_clientes.resources
+C:\Users\didie\OneDrive\Email attachments\Documentos\VentaDeCelulares\VentaDeCelulares\bin\Debug\VentaDeCelulares.exe.config
+C:\Users\didie\OneDrive\Email attachments\Documentos\VentaDeCelulares\VentaDeCelulares\bin\Debug\VentaDeCelulares.exe
+C:\Users\didie\OneDrive\Email attachments\Documentos\VentaDeCelulares\VentaDeCelulares\bin\Debug\VentaDeCelulares.pdb
+C:\Users\didie\OneDrive\Email attachments\Documentos\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.csprojResolveAssemblyReference.cache
+C:\Users\didie\OneDrive\Email attachments\Documentos\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_gestión_usuarios.resources
+C:\Users\didie\OneDrive\Email attachments\Documentos\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_iniciar_sesión.resources
+C:\Users\didie\OneDrive\Email attachments\Documentos\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_celulares.resources
+C:\Users\didie\OneDrive\Email attachments\Documentos\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_gestión_artículos.resources
+C:\Users\didie\OneDrive\Email attachments\Documentos\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_gestión_clientes.resources
+C:\Users\didie\OneDrive\Email attachments\Documentos\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_principal.resources
+C:\Users\didie\OneDrive\Email attachments\Documentos\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_registro_celular.resources
+C:\Users\didie\OneDrive\Email attachments\Documentos\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_ver_accesorios.resources
+C:\Users\didie\OneDrive\Email attachments\Documentos\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_ver_clientes.resources
+C:\Users\didie\OneDrive\Email attachments\Documentos\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_ver_usuarios.resources
+C:\Users\didie\OneDrive\Email attachments\Documentos\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_ver_ventas.resources
+C:\Users\didie\OneDrive\Email attachments\Documentos\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.Properties.Resources.resources
+C:\Users\didie\OneDrive\Email attachments\Documentos\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.csproj.GenerateResource.Cache
+C:\Users\didie\OneDrive\Email attachments\Documentos\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.csproj.CoreCompileInputs.cache
+C:\Users\didie\OneDrive\Email attachments\Documentos\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.exe
+C:\Users\didie\OneDrive\Email attachments\Documentos\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.pdb
+C:\Users\didie\OneDrive\Email attachments\Documentos\VentaDeCelulares\VentaDeCelulares\bin\Debug\MetroFramework.Design.dll
+C:\Users\didie\OneDrive\Email attachments\Documentos\VentaDeCelulares\VentaDeCelulares\bin\Debug\MetroFramework.dll
+C:\Users\didie\OneDrive\Email attachments\Documentos\VentaDeCelulares\VentaDeCelulares\bin\Debug\MetroFramework.Fonts.dll
+E:\VentaDeCelulares\VentaDeCelulares\bin\Debug\VentaDeCelulares.exe.config
+E:\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.exe
+E:\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.pdb
+E:\VentaDeCelulares\VentaDeCelulares\bin\Debug\VentaDeCelulares.exe
+E:\VentaDeCelulares\VentaDeCelulares\bin\Debug\VentaDeCelulares.pdb
+E:\VentaDeCelulares\VentaDeCelulares\bin\Debug\MetroFramework.Design.dll
+E:\VentaDeCelulares\VentaDeCelulares\bin\Debug\MetroFramework.dll
+E:\VentaDeCelulares\VentaDeCelulares\bin\Debug\MetroFramework.Fonts.dll
+E:\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.csprojResolveAssemblyReference.cache
+E:\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_gestión_usuarios.resources
+E:\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_iniciar_sesión.resources
+E:\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_celulares.resources
+E:\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_gestión_artículos.resources
+E:\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_gestión_clientes.resources
+E:\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_principal.resources
+E:\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_registro_celular.resources
+E:\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_ver_accesorios.resources
+E:\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_ver_clientes.resources
+E:\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_ver_usuarios.resources
+E:\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_ver_ventas.resources
+E:\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.Properties.Resources.resources
+E:\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.csproj.GenerateResource.Cache
+C:\Users\ACER\Desktop\VentaDeCelulares\VentaDeCelulares\bin\Debug\VentaDeCelulares.exe.config
+C:\Users\ACER\Desktop\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.exe
+C:\Users\ACER\Desktop\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.pdb
+C:\Users\ACER\Desktop\VentaDeCelulares\VentaDeCelulares\bin\Debug\VentaDeCelulares.exe
+C:\Users\ACER\Desktop\VentaDeCelulares\VentaDeCelulares\bin\Debug\VentaDeCelulares.pdb
+C:\Users\ACER\Desktop\VentaDeCelulares\VentaDeCelulares\bin\Debug\MetroFramework.Design.dll
+C:\Users\ACER\Desktop\VentaDeCelulares\VentaDeCelulares\bin\Debug\MetroFramework.dll
+C:\Users\ACER\Desktop\VentaDeCelulares\VentaDeCelulares\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ACER\Desktop\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_gestión_usuarios.resources
+C:\Users\ACER\Desktop\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_iniciar_sesión.resources
+C:\Users\ACER\Desktop\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_celulares.resources
+C:\Users\ACER\Desktop\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_gestión_artículos.resources
+C:\Users\ACER\Desktop\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_gestión_clientes.resources
+C:\Users\ACER\Desktop\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_principal.resources
+C:\Users\ACER\Desktop\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_registro_celular.resources
+C:\Users\ACER\Desktop\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_ver_accesorios.resources
+C:\Users\ACER\Desktop\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_ver_clientes.resources
+C:\Users\ACER\Desktop\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_ver_usuarios.resources
+C:\Users\ACER\Desktop\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_ver_ventas.resources
+C:\Users\ACER\Desktop\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.Properties.Resources.resources
+C:\Users\ACER\Desktop\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.csproj.GenerateResource.Cache
+D:\Documentos\Workspace\VentaDeCelulares\VentaDeCelulares\bin\Debug\VentaDeCelulares.exe.config
+D:\Documentos\Workspace\VentaDeCelulares\VentaDeCelulares\bin\Debug\VentaDeCelulares.exe
+D:\Documentos\Workspace\VentaDeCelulares\VentaDeCelulares\bin\Debug\VentaDeCelulares.pdb
+D:\Documentos\Workspace\VentaDeCelulares\VentaDeCelulares\bin\Debug\BLL.dll
+D:\Documentos\Workspace\VentaDeCelulares\VentaDeCelulares\bin\Debug\Entity.dll
+D:\Documentos\Workspace\VentaDeCelulares\VentaDeCelulares\bin\Debug\MetroFramework.Design.dll
+D:\Documentos\Workspace\VentaDeCelulares\VentaDeCelulares\bin\Debug\MetroFramework.dll
+D:\Documentos\Workspace\VentaDeCelulares\VentaDeCelulares\bin\Debug\MetroFramework.Fonts.dll
+D:\Documentos\Workspace\VentaDeCelulares\VentaDeCelulares\bin\Debug\DAL.dll
+D:\Documentos\Workspace\VentaDeCelulares\VentaDeCelulares\bin\Debug\BLL.pdb
+D:\Documentos\Workspace\VentaDeCelulares\VentaDeCelulares\bin\Debug\Entity.pdb
+D:\Documentos\Workspace\VentaDeCelulares\VentaDeCelulares\bin\Debug\DAL.pdb
+D:\Documentos\Workspace\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.csprojAssemblyReference.cache
+D:\Documentos\Workspace\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_gestión_usuarios.resources
+D:\Documentos\Workspace\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_iniciar_sesión.resources
+D:\Documentos\Workspace\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_celulares.resources
+D:\Documentos\Workspace\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_gestión_artículos.resources
+D:\Documentos\Workspace\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_gestión_clientes.resources
+D:\Documentos\Workspace\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_principal.resources
+D:\Documentos\Workspace\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_registro_celular.resources
+D:\Documentos\Workspace\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_ver_accesorios.resources
+D:\Documentos\Workspace\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_ver_clientes.resources
+D:\Documentos\Workspace\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_ver_usuarios.resources
+D:\Documentos\Workspace\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_ver_ventas.resources
+D:\Documentos\Workspace\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.Properties.Resources.resources
+D:\Documentos\Workspace\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.csproj.GenerateResource.cache
+D:\Documentos\Workspace\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.csproj.CoreCompileInputs.cache
+D:\Documentos\Workspace\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.csproj.CopyComplete
+D:\Documentos\Workspace\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.exe
+D:\Documentos\Workspace\VentaDeCelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.pdb
+F:\ventadecelulares\VentaDeCelulares\bin\Debug\VentaDeCelulares.exe.config
+F:\ventadecelulares\VentaDeCelulares\bin\Debug\VentaDeCelulares.exe
+F:\ventadecelulares\VentaDeCelulares\bin\Debug\VentaDeCelulares.pdb
+F:\ventadecelulares\VentaDeCelulares\bin\Debug\BLL.dll
+F:\ventadecelulares\VentaDeCelulares\bin\Debug\Entity.dll
+F:\ventadecelulares\VentaDeCelulares\bin\Debug\MetroFramework.Design.dll
+F:\ventadecelulares\VentaDeCelulares\bin\Debug\MetroFramework.dll
+F:\ventadecelulares\VentaDeCelulares\bin\Debug\MetroFramework.Fonts.dll
+F:\ventadecelulares\VentaDeCelulares\bin\Debug\DAL.dll
+F:\ventadecelulares\VentaDeCelulares\bin\Debug\BLL.pdb
+F:\ventadecelulares\VentaDeCelulares\bin\Debug\Entity.pdb
+F:\ventadecelulares\VentaDeCelulares\bin\Debug\DAL.pdb
+F:\ventadecelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.csprojResolveAssemblyReference.cache
+F:\ventadecelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_gestión_usuarios.resources
+F:\ventadecelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_iniciar_sesión.resources
+F:\ventadecelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_celulares.resources
+F:\ventadecelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_gestión_artículos.resources
+F:\ventadecelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_gestión_clientes.resources
+F:\ventadecelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_principal.resources
+F:\ventadecelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_registro_celular.resources
+F:\ventadecelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_ver_accesorios.resources
+F:\ventadecelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_ver_clientes.resources
+F:\ventadecelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_ver_usuarios.resources
+F:\ventadecelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.fr_ver_ventas.resources
+F:\ventadecelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.Properties.Resources.resources
+F:\ventadecelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.csproj.GenerateResource.Cache
+F:\ventadecelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.exe
+F:\ventadecelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.pdb
