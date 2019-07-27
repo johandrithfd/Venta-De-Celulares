@@ -12,13 +12,15 @@ namespace DAL
     {
         public UsuarioRepository() : base("Usuario", new string[] {
             "Nombre",
-            "Contraseña"
+            "Contraseña",
+            "Rol"
         }) { }
 
         protected override void BindParams(SqlCommand comm, Usuario t)
         {
             comm.Parameters.AddWithValue(attributes[0], t.Nombre);
             comm.Parameters.AddWithValue(attributes[1], t.Contraseña);
+            comm.Parameters.AddWithValue(attributes[2], t.Rol);
         }
 
         protected override Usuario ToObject(SqlDataReader reader)
@@ -27,6 +29,7 @@ namespace DAL
             u.Id = reader.GetInt32(0);
             u.Nombre = reader.GetString(1);
             u.Contraseña = reader.GetString(2);
+            u.Rol = char.Parse(reader.GetString(3));
 
             return u;
         }

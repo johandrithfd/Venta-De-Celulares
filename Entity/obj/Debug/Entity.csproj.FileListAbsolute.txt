@@ -14,3 +14,8 @@ F:\ventadecelulares\Entity\bin\Debug\Entity.pdb
 F:\ventadecelulares\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
 F:\ventadecelulares\Entity\obj\Debug\Entity.dll
 F:\ventadecelulares\Entity\obj\Debug\Entity.pdb
+C:\Users\ACER\Desktop\Proyecto\ventadecelulares\Entity\bin\Debug\Entity.dll
+C:\Users\ACER\Desktop\Proyecto\ventadecelulares\Entity\bin\Debug\Entity.pdb
+C:\Users\ACER\Desktop\Proyecto\ventadecelulares\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\Proyecto\ventadecelulares\Entity\obj\Debug\Entity.dll
+C:\Users\ACER\Desktop\Proyecto\ventadecelulares\Entity\obj\Debug\Entity.pdb

@@ -9,7 +9,7 @@ namespace DAL
             {
                 "Ram",
                 "Almacenamiento",
-                "Megapixeles",
+                "Resolución",
                 "Tipo",
                 "Referencia",
                 "Nombre",
@@ -42,17 +42,17 @@ namespace DAL
             Celular a = new Celular();
 
             a.Id = reader.GetInt32(0);
-            a.RAM = reader.GetInt32(1);
-            a.Almacenamiento = reader.GetInt32(2);
-            a.MegapixelesEnLaCámara = reader.GetInt32(3);
+            a.Referencia = reader.GetString(1);
+            a.Nombre = reader.GetString(2);
+            a.Precio = (float)reader.GetDouble(3);
+            a.Descripción = reader.GetString(4);
+            a.Cantidad = reader.GetInt32(5);
+            a.Marca = new MarcaRepository().Get(reader.GetInt32(6));
+            a.Color = new ColorRepository().Get(reader.GetInt32(7));
+            a.Almacenamiento = reader.GetInt32(8);
+            a.RAM = reader.GetInt32(9);
+            a.MegapixelesEnLaCámara = reader.GetInt32(10);
             a.Tipo = TipoDeCelular.INTELIGENTE;
-            a.Referencia = reader.GetString(5);
-            a.Nombre = reader.GetString(6);
-            a.Precio = (float)reader.GetDouble(7);
-            a.Descripción = reader.GetString(8);
-            a.Cantidad = reader.GetInt32(9);
-            a.Marca = new MarcaRepository().Get(reader.GetInt32(10));
-            a.Color = new ColorRepository().Get(reader.GetInt32(11));
 
             return a;
         }

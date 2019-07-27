@@ -21,3 +21,10 @@ F:\ventadecelulares\DAL\bin\Debug\DAL.dll
 F:\ventadecelulares\DAL\bin\Debug\DAL.pdb
 F:\ventadecelulares\DAL\bin\Debug\Entity.dll
 F:\ventadecelulares\DAL\bin\Debug\Entity.pdb
+C:\Users\ACER\Desktop\Proyecto\ventadecelulares\DAL\bin\Debug\DAL.dll
+C:\Users\ACER\Desktop\Proyecto\ventadecelulares\DAL\bin\Debug\DAL.pdb
+C:\Users\ACER\Desktop\Proyecto\ventadecelulares\DAL\bin\Debug\Entity.dll
+C:\Users\ACER\Desktop\Proyecto\ventadecelulares\DAL\bin\Debug\Entity.pdb
+C:\Users\ACER\Desktop\Proyecto\ventadecelulares\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\Proyecto\ventadecelulares\DAL\obj\Debug\DAL.dll
+C:\Users\ACER\Desktop\Proyecto\ventadecelulares\DAL\obj\Debug\DAL.pdb

@@ -27,3 +27,12 @@ F:\ventadecelulares\BLL\bin\Debug\Entity.pdb
 F:\ventadecelulares\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
 F:\ventadecelulares\BLL\obj\Debug\BLL.dll
 F:\ventadecelulares\BLL\obj\Debug\BLL.pdb
+C:\Users\ACER\Desktop\Proyecto\ventadecelulares\BLL\bin\Debug\BLL.dll
+C:\Users\ACER\Desktop\Proyecto\ventadecelulares\BLL\bin\Debug\BLL.pdb
+C:\Users\ACER\Desktop\Proyecto\ventadecelulares\BLL\bin\Debug\DAL.dll
+C:\Users\ACER\Desktop\Proyecto\ventadecelulares\BLL\bin\Debug\Entity.dll
+C:\Users\ACER\Desktop\Proyecto\ventadecelulares\BLL\bin\Debug\DAL.pdb
+C:\Users\ACER\Desktop\Proyecto\ventadecelulares\BLL\bin\Debug\Entity.pdb
+C:\Users\ACER\Desktop\Proyecto\ventadecelulares\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\Proyecto\ventadecelulares\BLL\obj\Debug\BLL.dll
+C:\Users\ACER\Desktop\Proyecto\ventadecelulares\BLL\obj\Debug\BLL.pdb

@@ -9,7 +9,12 @@ namespace DAL
     {
         protected string tableName = "";
         protected string[] attributes;
-        readonly string connectionString = ConfigurationManager.AppSettings["connectionString"];
+        protected readonly string connectionString = ConfigurationManager.AppSettings["connectionString"];
+
+        public int Count()
+        {
+            return GetAll().Count;
+        }
 
         public Repository(string tableName, string[] attributes)
         {
@@ -21,7 +26,6 @@ namespace DAL
         {
             using (SqlConnection conn = new SqlConnection(connectionString))
             {
-                Console.WriteLine(value);
                 conn.Open();
                 SqlCommand comm = new SqlCommand()
                 {
@@ -43,7 +47,7 @@ namespace DAL
                 }
                 catch (Exception e)
                 {
-                    Console.WriteLine(e.Message);
+                    Console.WriteLine(e.StackTrace);
                     result = default(T);
                 }
                 finally
@@ -85,7 +89,7 @@ namespace DAL
                 }
                 catch (Exception e)
                 {
-                    Console.WriteLine(e.Message);
+                    Console.WriteLine(e.StackTrace);
                     result = default(T);
                 }
                 finally
@@ -122,7 +126,7 @@ namespace DAL
                 }
                 catch (Exception e)
                 {
-                    Console.WriteLine(e.Message);
+                    Console.WriteLine(e.StackTrace);
                 }
                 finally
                 {
@@ -166,7 +170,7 @@ namespace DAL
 
         protected abstract void BindParams(SqlCommand comm, T t);
 
-        public int Insert(T t)
+        public virtual int Insert(T t)
         {
             using (SqlConnection conn = new SqlConnection(connectionString))
             {
@@ -215,7 +219,7 @@ namespace DAL
                 }
                 catch (Exception e)
                 {
-                    Console.WriteLine(e.Message);
+                    Console.WriteLine(e.StackTrace);
                 }
                 finally
                 {
@@ -246,7 +250,7 @@ namespace DAL
                 }
                 catch (ArgumentNullException e)
                 {
-                    Console.WriteLine(e.Message);
+                    Console.WriteLine(e.StackTrace);
                 }
                 finally
                 {

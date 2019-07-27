@@ -16,7 +16,7 @@ namespace VentaDeCelulares
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new fr_principal());
+            Application.Run(new IniciarSesiónForm());
         }
     }
 }

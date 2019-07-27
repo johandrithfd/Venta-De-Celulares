@@ -7,7 +7,7 @@ namespace DAL
     {
         public ClienteRepository() : base("Cliente", new string[]
         {
-            "Nombre",
+            "Nombres",
             "Primer_apellido",
             "Segundo_apellido",
             "Teléfono",

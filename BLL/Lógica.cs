@@ -12,6 +12,11 @@ namespace BLL
 
         private readonly Repository<T> Repository;
 
+        public int Count()
+        {
+            return Repository.Count();
+        }
+
         public T Get(int id)
         {
             return Repository.Get(id);

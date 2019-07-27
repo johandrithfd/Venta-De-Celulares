@@ -54,106 +54,142 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="fr_gestión_usuarios.cs">
+    <Compile Include="GestiónTipoDeAccesorioForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="fr_gestión_usuarios.Designer.cs">
-      <DependentUpon>fr_gestión_usuarios.cs</DependentUpon>
+    <Compile Include="GestiónTipoDeAccesorioForm.Designer.cs">
+      <DependentUpon>GestiónTipoDeAccesorioForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="fr_iniciar_sesión.cs">
+    <Compile Include="VerClientesDialog.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="fr_iniciar_sesión.Designer.cs">
-      <DependentUpon>fr_iniciar_sesión.cs</DependentUpon>
+    <Compile Include="VerClientesDialog.Designer.cs">
+      <DependentUpon>VerClientesDialog.cs</DependentUpon>
     </Compile>
-    <Compile Include="fr_ver_celulares.cs">
+    <Compile Include="GestiónDeMarcasForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="fr_ver_celulares.Designer.cs">
-      <DependentUpon>fr_ver_celulares.cs</DependentUpon>
+    <Compile Include="GestiónDeMarcasForm.Designer.cs">
+      <DependentUpon>GestiónDeMarcasForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="fr_registro_celular.cs">
+    <Compile Include="GestiónDeUsuariosForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="fr_registro_celular.Designer.cs">
-      <DependentUpon>fr_registro_celular.cs</DependentUpon>
+    <Compile Include="GestiónDeUsuariosForm.Designer.cs">
+      <DependentUpon>GestiónDeUsuariosForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="fr_gestión_artículos.cs">
+    <Compile Include="IniciarSesiónForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="fr_gestión_artículos.Designer.cs">
-      <DependentUpon>fr_gestión_artículos.cs</DependentUpon>
+    <Compile Include="IniciarSesiónForm.Designer.cs">
+      <DependentUpon>IniciarSesiónForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="fr_gestión_clientes.cs">
+    <Compile Include="VerCelularesDialog.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="fr_gestión_clientes.Designer.cs">
-      <DependentUpon>fr_gestión_clientes.cs</DependentUpon>
+    <Compile Include="VerCelularesDialog.Designer.cs">
+      <DependentUpon>VerCelularesDialog.cs</DependentUpon>
     </Compile>
-    <Compile Include="fr_principal.cs">
+    <Compile Include="GestiónDeCelularesForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="fr_principal.Designer.cs">
-      <DependentUpon>fr_principal.cs</DependentUpon>
+    <Compile Include="GestiónDeCelularesForm.Designer.cs">
+      <DependentUpon>GestiónDeCelularesForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="fr_ver_accesorios.cs">
+    <Compile Include="GestiónDeAccesoriosForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="fr_ver_accesorios.Designer.cs">
-      <DependentUpon>fr_ver_accesorios.cs</DependentUpon>
+    <Compile Include="GestiónDeAccesoriosForm.Designer.cs">
+      <DependentUpon>GestiónDeAccesoriosForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="fr_ver_clientes.cs">
+    <Compile Include="GestiónDeClientesForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="fr_ver_clientes.Designer.cs">
-      <DependentUpon>fr_ver_clientes.cs</DependentUpon>
+    <Compile Include="GestiónDeClientesForm.Designer.cs">
+      <DependentUpon>GestiónDeClientesForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="fr_ver_usuarios.cs">
+    <Compile Include="PrincipalForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="fr_ver_usuarios.Designer.cs">
-      <DependentUpon>fr_ver_usuarios.cs</DependentUpon>
+    <Compile Include="PrincipalForm.Designer.cs">
+      <DependentUpon>PrincipalForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="fr_ver_ventas.cs">
+    <Compile Include="VerAccesoriosDialog.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="fr_ver_ventas.Designer.cs">
-      <DependentUpon>fr_ver_ventas.cs</DependentUpon>
+    <Compile Include="VerAccesoriosDialog.Designer.cs">
+      <DependentUpon>VerAccesoriosDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VerMarcasDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VerMarcasDialog.Designer.cs">
+      <DependentUpon>VerMarcasDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VerTipoDeAccesorioDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VerTipoDeAccesorioDialog.Designer.cs">
+      <DependentUpon>VerTipoDeAccesorioDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VerUsuariosDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VerUsuariosDialog.Designer.cs">
+      <DependentUpon>VerUsuariosDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VerVentasDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VerVentasDialog.Designer.cs">
+      <DependentUpon>VerVentasDialog.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="fr_gestión_usuarios.resx">
-      <DependentUpon>fr_gestión_usuarios.cs</DependentUpon>
+    <EmbeddedResource Include="GestiónDeMarcasForm.resx">
+      <DependentUpon>GestiónDeMarcasForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="fr_iniciar_sesión.resx">
-      <DependentUpon>fr_iniciar_sesión.cs</DependentUpon>
+    <EmbeddedResource Include="GestiónDeUsuariosForm.resx">
+      <DependentUpon>GestiónDeUsuariosForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="fr_ver_celulares.resx">
-      <DependentUpon>fr_ver_celulares.cs</DependentUpon>
+    <EmbeddedResource Include="GestiónTipoDeAccesorioForm.resx">
+      <DependentUpon>GestiónTipoDeAccesorioForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="fr_gestión_artículos.resx">
-      <DependentUpon>fr_gestión_artículos.cs</DependentUpon>
+    <EmbeddedResource Include="IniciarSesiónForm.resx">
+      <DependentUpon>IniciarSesiónForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="fr_gestión_clientes.resx">
-      <DependentUpon>fr_gestión_clientes.cs</DependentUpon>
+    <EmbeddedResource Include="VerCelularesDialog.resx">
+      <DependentUpon>VerCelularesDialog.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="fr_principal.resx">
-      <DependentUpon>fr_principal.cs</DependentUpon>
+    <EmbeddedResource Include="GestiónDeAccesoriosForm.resx">
+      <DependentUpon>GestiónDeAccesoriosForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="fr_registro_celular.resx">
-      <DependentUpon>fr_registro_celular.cs</DependentUpon>
+    <EmbeddedResource Include="GestiónDeClientesForm.resx">
+      <DependentUpon>GestiónDeClientesForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="fr_ver_accesorios.resx">
-      <DependentUpon>fr_ver_accesorios.cs</DependentUpon>
+    <EmbeddedResource Include="PrincipalForm.resx">
+      <DependentUpon>PrincipalForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="fr_ver_clientes.resx">
-      <DependentUpon>fr_ver_clientes.cs</DependentUpon>
+    <EmbeddedResource Include="GestiónDeCelularesForm.resx">
+      <DependentUpon>GestiónDeCelularesForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="fr_ver_usuarios.resx">
-      <DependentUpon>fr_ver_usuarios.cs</DependentUpon>
+    <EmbeddedResource Include="VerAccesoriosDialog.resx">
+      <DependentUpon>VerAccesoriosDialog.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="fr_ver_ventas.resx">
-      <DependentUpon>fr_ver_ventas.cs</DependentUpon>
+    <EmbeddedResource Include="VerClientesDialog.resx">
+      <DependentUpon>VerClientesDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VerMarcasDialog.resx">
+      <DependentUpon>VerMarcasDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VerTipoDeAccesorioDialog.resx">
+      <DependentUpon>VerTipoDeAccesorioDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VerUsuariosDialog.resx">
+      <DependentUpon>VerUsuariosDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VerVentasDialog.resx">
+      <DependentUpon>VerVentasDialog.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -228,6 +264,10 @@
     <ProjectReference Include="..\BLL\BLL.csproj">
       <Project>{D2838D06-B332-4C3A-BE08-C1D4C221DD17}</Project>
       <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{FDB38109-5AE0-43D5-B5AD-99C154FBA68A}</Project>
+      <Name>DAL</Name>
     </ProjectReference>
     <ProjectReference Include="..\Entity\Entity.csproj">
       <Project>{D91B4FC7-F4F0-4A8D-B903-D200249AE470}</Project>

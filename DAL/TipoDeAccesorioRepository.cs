@@ -7,6 +7,7 @@ namespace DAL
     {
         public TipoDeAccesorioRepository() : base("Tipo_de_accesorio", new string[]
             {
+                "Nombre",
                 "Descripción"
             })
         { }
@@ -14,6 +15,7 @@ namespace DAL
         protected override void BindParams(SqlCommand comm, TipoDeAccesorio t)
         {
             comm.Parameters.AddWithValue(attributes[0], t.Tipo);
+            comm.Parameters.AddWithValue(attributes[1], t.Descripción);
         }
 
         protected override TipoDeAccesorio ToObject(SqlDataReader reader)
@@ -22,6 +24,7 @@ namespace DAL
 
             ta.Id = reader.GetInt32(0);
             ta.Tipo = reader.GetString(1);
+            ta.Descripción = reader.GetString(2);
 
             return ta;
         }
