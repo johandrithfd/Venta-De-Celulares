@@ -147,6 +147,7 @@
             this.AlmacenamientoTextBox.UseSelectable = true;
             this.AlmacenamientoTextBox.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.AlmacenamientoTextBox.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
+            this.AlmacenamientoTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.AlmacenamientoTextBox_KeyPress);
             // 
             // RamTextBox
             // 
@@ -177,6 +178,7 @@
             this.RamTextBox.UseSelectable = true;
             this.RamTextBox.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.RamTextBox.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
+            this.RamTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.RamTextBox_KeyPress);
             // 
             // ResoluciónTextBox
             // 
@@ -207,6 +209,7 @@
             this.ResoluciónTextBox.UseSelectable = true;
             this.ResoluciónTextBox.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.ResoluciónTextBox.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
+            this.ResoluciónTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.ResoluciónTextBox_KeyPress);
             // 
             // bt_volver
             // 
@@ -275,6 +278,7 @@
             this.ReferenciaTextBox.UseSelectable = true;
             this.ReferenciaTextBox.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.ReferenciaTextBox.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
+            this.ReferenciaTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.ReferenciaTextBox_KeyPress);
             // 
             // metroLabel8
             // 
@@ -314,6 +318,7 @@
             this.NombreTextBox.UseSelectable = true;
             this.NombreTextBox.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.NombreTextBox.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
+            this.NombreTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.NombreTextBox_KeyPress);
             // 
             // PrecioTextBox
             // 
@@ -344,6 +349,7 @@
             this.PrecioTextBox.UseSelectable = true;
             this.PrecioTextBox.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.PrecioTextBox.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
+            this.PrecioTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.PrecioTextBox_KeyPress);
             // 
             // DescripciónTextBox
             // 
@@ -374,6 +380,7 @@
             this.DescripciónTextBox.UseSelectable = true;
             this.DescripciónTextBox.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.DescripciónTextBox.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
+            this.DescripciónTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.DescripciónTextBox_KeyPress);
             // 
             // metroLabel9
             // 
@@ -431,6 +438,7 @@
             this.CantidadTextBox.UseSelectable = true;
             this.CantidadTextBox.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.CantidadTextBox.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
+            this.CantidadTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.CantidadTextBox_KeyPress);
             // 
             // Marca
             // 

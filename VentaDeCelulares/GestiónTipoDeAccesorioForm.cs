@@ -78,6 +78,15 @@ namespace VentaDeCelulares
         {
             new VerTipoDeAccesorioDialog().Visible = true;
         }
-        
+
+        private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            Validar.SoloLetras(e);
+        }
+
+        private void textBox2_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            Validar.SoloLetras(e);
+        }
     }
 }

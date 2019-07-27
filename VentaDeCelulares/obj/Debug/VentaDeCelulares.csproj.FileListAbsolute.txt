@@ -174,3 +174,6 @@ C:\Users\ACER\Desktop\Proyecto\ventadecelulares\VentaDeCelulares\obj\Debug\Venta
 C:\Users\ACER\Desktop\Proyecto\ventadecelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.VerMarcasDialog.resources
 C:\Users\ACER\Desktop\Proyecto\ventadecelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.GestiónTipoDeAccesorioForm.resources
 C:\Users\ACER\Desktop\Proyecto\ventadecelulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.VerTipoDeAccesorioDialog.resources
+C:\Users\ACER\Desktop\Repositorio\Venta-De-Celulares\VentaDeCelulares\bin\Debug\VentaDeCelulares.exe.config
+C:\Users\ACER\Desktop\Repositorio\Venta-De-Celulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.exe
+C:\Users\ACER\Desktop\Repositorio\Venta-De-Celulares\VentaDeCelulares\obj\Debug\VentaDeCelulares.pdb

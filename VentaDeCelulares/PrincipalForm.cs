@@ -224,5 +224,20 @@ namespace VentaDeCelulares
                 dataGridView1.Rows.RemoveAt(item.Index);
             }
         }
+
+        private void tb_cantidad_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            Validar.SoloNumeros(e);
+        }
+
+        private void CédulaTextBox_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            Validar.SoloNumeros(e);
+        }
+
+        private void RefArtículoTextBox_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            Validar.SoloNumeros(e);
+        }
     }
 }

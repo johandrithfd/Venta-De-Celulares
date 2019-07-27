@@ -92,5 +92,10 @@ namespace VentaDeCelulares
         {
             new VerMarcasDialog().Visible = true;
         }
+
+        private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            Validar.SoloLetras(e);
+        }
     }
 }

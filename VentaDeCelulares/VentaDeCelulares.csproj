@@ -60,6 +60,7 @@
     <Compile Include="GestiónTipoDeAccesorioForm.Designer.cs">
       <DependentUpon>GestiónTipoDeAccesorioForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Validar.cs" />
     <Compile Include="VerClientesDialog.cs">
       <SubType>Form</SubType>
     </Compile>

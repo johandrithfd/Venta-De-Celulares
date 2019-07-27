@@ -324,6 +324,7 @@
             this.CédulaTextBox.UseSelectable = true;
             this.CédulaTextBox.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.CédulaTextBox.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
+            this.CédulaTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.CédulaTextBox_KeyPress);
             // 
             // RefArtículoTextBox
             // 
@@ -354,6 +355,7 @@
             this.RefArtículoTextBox.UseSelectable = true;
             this.RefArtículoTextBox.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.RefArtículoTextBox.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
+            this.RefArtículoTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.RefArtículoTextBox_KeyPress);
             // 
             // tb_cantidad
             // 
@@ -384,6 +386,7 @@
             this.tb_cantidad.UseSelectable = true;
             this.tb_cantidad.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.tb_cantidad.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
+            this.tb_cantidad.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.tb_cantidad_KeyPress);
             // 
             // VueltasTextBox
             // 

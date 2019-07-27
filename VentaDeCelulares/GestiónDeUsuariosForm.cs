@@ -100,5 +100,10 @@ namespace VentaDeCelulares
         {
             Dispose();
         }
+
+        private void NombreTextBox_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            Validar.SoloLetras(e);
+        }
     }
 }

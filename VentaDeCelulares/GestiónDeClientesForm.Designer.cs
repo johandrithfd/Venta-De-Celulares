@@ -143,6 +143,7 @@
             this.CédulaTextBox.UseSelectable = true;
             this.CédulaTextBox.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.CédulaTextBox.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
+            this.CédulaTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.CédulaTextBox_KeyPress);
             // 
             // NombresTextBox
             // 
@@ -173,6 +174,7 @@
             this.NombresTextBox.UseSelectable = true;
             this.NombresTextBox.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.NombresTextBox.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
+            this.NombresTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.NombresTextBox_KeyPress);
             // 
             // ApellidosTextBox
             // 
@@ -203,6 +205,7 @@
             this.ApellidosTextBox.UseSelectable = true;
             this.ApellidosTextBox.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.ApellidosTextBox.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
+            this.ApellidosTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.ApellidosTextBox_KeyPress);
             // 
             // EdadTextBox
             // 
@@ -233,6 +236,7 @@
             this.EdadTextBox.UseSelectable = true;
             this.EdadTextBox.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.EdadTextBox.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
+            this.EdadTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.EdadTextBox_KeyPress);
             // 
             // DirecciónTextBox
             // 
@@ -293,6 +297,7 @@
             this.TeléfonoTextBox.UseSelectable = true;
             this.TeléfonoTextBox.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.TeléfonoTextBox.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
+            this.TeléfonoTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.TeléfonoTextBox_KeyPress);
             // 
             // GéneroComboBox
             // 
@@ -428,7 +433,7 @@
             this.metroLabel8.TabIndex = 42;
             this.metroLabel8.Text = "Correo electrónico";
             // 
-            // fr_gestión_clientes
+            // GestiónDeClientesForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -458,7 +463,7 @@
             this.Controls.Add(this.menuStrip1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
-            this.Name = "fr_gestión_clientes";
+            this.Name = "GestiónDeClientesForm";
             this.Text = "Clientes";
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();

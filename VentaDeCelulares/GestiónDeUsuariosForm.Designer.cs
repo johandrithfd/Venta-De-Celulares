@@ -53,6 +53,7 @@
             this.NombreTextBox.Name = "NombreTextBox";
             this.NombreTextBox.Size = new System.Drawing.Size(150, 20);
             this.NombreTextBox.TabIndex = 5;
+            this.NombreTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.NombreTextBox_KeyPress);
             // 
             // ContraseñaTextbox
             // 
@@ -177,7 +178,7 @@
             this.metroButton1.UseSelectable = true;
             this.metroButton1.Click += new System.EventHandler(this.metroButton1_Click);
             // 
-            // fr_gestión_usuarios
+            // GestiónDeUsuariosForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -197,7 +198,7 @@
             this.Controls.Add(this.menuStrip1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
-            this.Name = "fr_gestión_usuarios";
+            this.Name = "GestiónDeUsuariosForm";
             this.Text = "Gestión de usuarios";
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
